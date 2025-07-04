@@ -878,3 +878,4 @@
 2025-06-24 01:29:21 restructure project
 2025-11-16 02:08:15 reduce complexity
 2025-02-15 21:43:34 fix CI errors
+2025-07-04 16:53:20 better error handling
